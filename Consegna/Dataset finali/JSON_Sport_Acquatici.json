@@ -1,0 +1,3016 @@
+[
+    {
+        "ID": "6625094389",
+        "Atleta": "Michel Falcati",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "975m",
+            "Tempo in movimento": "21:33",
+            "Passo medio": "2:12/100 m",
+            "Dislivello": "53:25",
+            "Tempo trascorso": "202"
+        }
+    },
+    {
+        "ID": "6625103589",
+        "Atleta": "TriMigas 🏊🚴🏃",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "23"
+        },
+        "Statistiche": {
+            "Distanza": "1.500m",
+            "Tempo in movimento": "37:06",
+            "Passo medio": "2:28/100 m",
+            "Dislivello": "43:12",
+            "Tempo trascorso": "396"
+        }
+    },
+    {
+        "ID": "6625111589",
+        "Atleta": "David Kaple",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "1.600m",
+            "Tempo in movimento": "31:48",
+            "Passo medio": "1:59/100 m",
+            "Sforzo relativo": "52",
+            "Dislivello": "42:04",
+            "Tempo trascorso": "326"
+        }
+    },
+    {
+        "ID": "6625112689",
+        "Atleta": "Al •",
+        "Titolo": "Nuotare nel pomeriggio",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "25 gennaio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "325m",
+            "Tempo in movimento": "9:31",
+            "Passo medio": "2:55/100 m",
+            "Dislivello": "31:42",
+            "Tempo trascorso": "55"
+        }
+    },
+    {
+        "ID": "6625115989",
+        "Atleta": "Brandon Decker",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "800m",
+            "Tempo in movimento": "14:38",
+            "Passo medio": "1:49/100 m",
+            "Dislivello": "19:41",
+            "Tempo trascorso": "199"
+        }
+    },
+    {
+        "ID": "6625116789",
+        "Atleta": "Eduardo Souto",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "1 febbraio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.000m",
+            "Tempo in movimento": "18:13",
+            "Passo medio": "1:49/100 m",
+            "Dislivello": "42:59",
+            "Tempo trascorso": "227"
+        }
+    },
+    {
+        "ID": "6625123889",
+        "Atleta": "Leticia Verta",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "27 gennaio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "125m",
+            "Tempo in movimento": "50:38",
+            "Passo medio": "40:30/100 m",
+            "Dislivello": "50:38",
+            "Tempo trascorso": "320"
+        }
+    },
+    {
+        "ID": "6625126689",
+        "Atleta": "David Buck",
+        "Titolo": "\"Allenamento \"Imparare i tuoi sforzi",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "823m",
+            "Tempo in movimento": "24:10",
+            "Passo medio": "2:56/100 m",
+            "Dislivello": "34:11",
+            "Tempo trascorso": "192"
+        }
+    },
+    {
+        "ID": "6625132289",
+        "Atleta": "Craig Bester",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "14"
+        },
+        "Statistiche": {
+            "Distanza": "2.200m",
+            "Tempo in movimento": "27:44",
+            "Passo medio": "1:15/100 m",
+            "Dislivello": "47:16",
+            "Tempo trascorso": "501"
+        }
+    },
+    {
+        "ID": "6625141889",
+        "Atleta": "⭐⭐Will Defoe",
+        "Titolo": "Vogatore",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "5.000m",
+            "Tempo in movimento": "31:47",
+            "Passo medio": "3:10/500 m"
+        }
+    },
+    {
+        "ID": "6625142489",
+        "Atleta": "Natalia Esyunina",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "22"
+        },
+        "Statistiche": {
+            "Distanza": "1.425m",
+            "Tempo in movimento": "33:24",
+            "Passo medio": "2:20/100 m",
+            "Dislivello": "47:33",
+            "Tempo trascorso": "408"
+        }
+    },
+    {
+        "ID": "6625145389",
+        "Atleta": "Luciana Waismann",
+        "Titolo": "Nuotare al tramonto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "31 gennaio 2022",
+            "Giorno Settimana": "Lunedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.200m",
+            "Tempo in movimento": "24:26",
+            "Passo medio": "2:02/100 m",
+            "Dislivello": "24:32",
+            "Tempo trascorso": "240"
+        }
+    },
+    {
+        "ID": "6625147589",
+        "Atleta": "Adriano Dias",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "15 gennaio 2022",
+            "Giorno Settimana": "Sabato"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "77m",
+            "Tempo in movimento": "2:04",
+            "Passo medio": "2:41/100 m",
+            "Dislivello": "2:04",
+            "Tempo trascorso": "17"
+        },
+        "Location": "Rio de Janeiro, Brasile",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625147689",
+        "Atleta": "Marisa Pita",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "9"
+        },
+        "Statistiche": {
+            "Distanza": "1.950m",
+            "Tempo in movimento": "39:16",
+            "Passo medio": "2:00/100 m",
+            "Dislivello": "51:09",
+            "Tempo trascorso": "320"
+        }
+    },
+    {
+        "ID": "6625148389",
+        "Atleta": "Telmo Nunes",
+        "Titolo": "Attività mattutina",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "12 gennaio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "10:00",
+            "Passo medio": "2:30/500 m"
+        }
+    },
+    {
+        "ID": "6625157789",
+        "Atleta": "Giovanni Palmisano",
+        "Titolo": "Nuotata pomeridiana",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "7"
+        },
+        "Statistiche": {
+            "Distanza": "1.450m",
+            "Tempo in movimento": "33:01",
+            "Passo medio": "2:16/100 m",
+            "Dislivello": "40:04",
+            "Tempo trascorso": "320"
+        }
+    },
+    {
+        "ID": "6625160089",
+        "Atleta": "Jamie Sanderson",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "13"
+        },
+        "Statistiche": {
+            "Distanza": "1.425m",
+            "Tempo in movimento": "38:16",
+            "Passo medio": "2:41/100 m",
+            "Dislivello": "55:27",
+            "Tempo trascorso": "248"
+        }
+    },
+    {
+        "ID": "6625168189",
+        "Atleta": "Maren Barros",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "1.950m",
+            "Tempo in movimento": "58:12",
+            "Passo medio": "2:59/100 m",
+            "Sforzo relativo": "44",
+            "Dislivello": "58:20",
+            "Tempo trascorso": "346"
+        }
+    },
+    {
+        "ID": "6625168489",
+        "Atleta": "Patrik Zoller",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "9 gennaio 2022",
+            "Giorno Settimana": "Domenica"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.400m",
+            "Tempo in movimento": "32:27",
+            "Passo medio": "2:19/100 m",
+            "Dislivello": "32:28",
+            "Tempo trascorso": "330"
+        }
+    },
+    {
+        "ID": "6625180989",
+        "Atleta": "Guillermo Sanabia",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "1.625m",
+            "Tempo in movimento": "1:00:48",
+            "Passo medio": "3:44/100 m",
+            "Dislivello": "1:00:48",
+            "Tempo trascorso": "567"
+        }
+    },
+    {
+        "ID": "6625185489",
+        "Atleta": "Marco de Lange",
+        "Titolo": "Sessione pomeridiana di nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "3.050m",
+            "Tempo in movimento": "1:00:16",
+            "Passo medio": "1:58/100 m",
+            "Dislivello": "1:00:34",
+            "Tempo trascorso": "610"
+        }
+    },
+    {
+        "ID": "6625188489",
+        "Atleta": "Daniel Selcraig",
+        "Titolo": "Una nuotata di 1 miglio! 65 lunghezze!",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "1.625m",
+            "Tempo in movimento": "1:00:27",
+            "Passo medio": "3:43/100 m",
+            "Dislivello": "1:00:27",
+            "Tempo trascorso": "1.847"
+        }
+    },
+    {
+        "ID": "6625191889",
+        "Atleta": "Jeanna Hahn",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.715m",
+            "Tempo in movimento": "41:13",
+            "Passo medio": "2:24/100 m",
+            "Dislivello": "1:02:19",
+            "Tempo trascorso": "216"
+        }
+    },
+    {
+        "ID": "6625044989",
+        "Atleta": "Corin Hammond",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "4"
+        },
+        "Statistiche": {
+            "Distanza": "1.600m",
+            "Tempo in movimento": "34:44",
+            "Passo medio": "2:10/100 m",
+            "Sforzo relativo": "15",
+            "Dislivello": "44:25",
+            "Tempo trascorso": "225"
+        }
+    },
+    {
+        "ID": "6625052489",
+        "Atleta": "Маслаков Дмитрий",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "23 gennaio 2022",
+            "Giorno Settimana": "Domenica"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "3.004m",
+            "Tempo in movimento": "1:13:51",
+            "Passo medio": "2:27/100 m",
+            "Dislivello": "1:13:51",
+            "Tempo trascorso": "688"
+        },
+        "Location": "Morón, Cuba",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625054289",
+        "Atleta": "RODRIGO TORRES",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.259m",
+            "Tempo in movimento": "57:09",
+            "Passo medio": "4:32/100 m",
+            "Dislivello": "57:09",
+            "Tempo trascorso": "570"
+        },
+        "Location": "Perù"
+    },
+    {
+        "ID": "6625062489",
+        "Atleta": "Charlotte Good",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.050m",
+            "Tempo in movimento": "33:58",
+            "Passo medio": "3:14/100 m",
+            "Dislivello": "30:24",
+            "Tempo trascorso": "407"
+        }
+    },
+    {
+        "ID": "6624995889",
+        "Atleta": "Michał Moskal",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "31:36",
+            "Passo medio": "1:34/100 m",
+            "Dislivello": "45:05",
+            "Tempo trascorso": "506"
+        }
+    },
+    {
+        "ID": "6624997889",
+        "Atleta": "Caz Marchment",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "980m",
+            "Tempo in movimento": "14:56",
+            "Passo medio": "1:31/100 m",
+            "Dislivello": "29:28",
+            "Tempo trascorso": "344"
+        }
+    },
+    {
+        "ID": "6625003489",
+        "Atleta": "Mélanie Yout",
+        "Titolo": "Nuotare all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "21"
+        },
+        "Statistiche": {
+            "Distanza": "3.400m",
+            "Tempo in movimento": "1:03:53",
+            "Passo medio": "1:52/100 m"
+        }
+    },
+    {
+        "ID": "6625004789",
+        "Atleta": "Loïc Fournier",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "9"
+        },
+        "Statistiche": {
+            "Distanza": "550m",
+            "Tempo in movimento": "10:08",
+            "Passo medio": "1:50/100 m",
+            "Dislivello": "24:55",
+            "Tempo trascorso": "110"
+        }
+    },
+    {
+        "ID": "6625014989",
+        "Atleta": "Chris Poitivient",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "2 febbraio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.760m",
+            "Tempo in movimento": "38:12",
+            "Passo medio": "1:23/100 m",
+            "Dislivello": "47:07",
+            "Tempo trascorso": "833"
+        }
+    },
+    {
+        "ID": "6625016489",
+        "Atleta": "Carley Joyner",
+        "Titolo": "Sentirsi meglio dopo l'influenza",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "1 febbraio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "1.601m",
+            "Tempo in movimento": "34:00",
+            "Passo medio": "2:07/100 m"
+        }
+    },
+    {
+        "ID": "6625016789",
+        "Atleta": "Chip Schwartz",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.286m",
+            "Tempo in movimento": "56:12",
+            "Passo medio": "2:27/100 m",
+            "Dislivello": "1:03:50",
+            "Tempo trascorso": "400"
+        }
+    },
+    {
+        "ID": "6625023489",
+        "Atleta": "Jackson Daubner",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "2 febbraio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "2.743m",
+            "Tempo in movimento": "46:00",
+            "Passo medio": "1:40/100 m"
+        }
+    },
+    {
+        "ID": "6625027089",
+        "Atleta": "Joyce Braun-Stoner 🏊‍♀️🚴🏼‍♀️🏃🏻‍♀️",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "17"
+        },
+        "Statistiche": {
+            "Distanza": "2.309m",
+            "Tempo in movimento": "1:00:13",
+            "Passo medio": "2:36/100 m",
+            "Dislivello": "1:16:39",
+            "Tempo trascorso": "423"
+        }
+    },
+    {
+        "ID": "6625030989",
+        "Atleta": "Georgette Macdonald",
+        "Titolo": "2x21:00/3:00r row",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "4"
+        },
+        "Statistiche": {
+            "Distanza": "7.701m",
+            "Tempo in movimento": "44:55"
+        }
+    },
+    {
+        "ID": "6625031189",
+        "Atleta": "Alan Manson",
+        "Titolo": "Remato su WaterRower",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.997m",
+            "Tempo in movimento": "8:51"
+        }
+    },
+    {
+        "ID": "6625037289",
+        "Atleta": "David Garcia Guirado",
+        "Titolo": "Riscaldamento del test di velocità critica",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "274m",
+            "Tempo in movimento": "5:55",
+            "Passo medio": "2:09/100 m",
+            "Dislivello": "7:25",
+            "Tempo trascorso": "72"
+        }
+    },
+    {
+        "ID": "6625038489",
+        "Atleta": "Martin Švejnoch",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.000m",
+            "Tempo in movimento": "27:39",
+            "Passo medio": "2:45/100 m",
+            "Dislivello": "27:58",
+            "Tempo trascorso": "319"
+        }
+    },
+    {
+        "ID": "6624948689",
+        "Atleta": "Sébastien Pasquier",
+        "Titolo": "Nuotare nel pomeriggio",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "33"
+        },
+        "Statistiche": {
+            "Distanza": "0m",
+            "Tempo in movimento": "1:00:00",
+            "Passo medio": "0sec/100 m",
+            "Tempo trascorso": "1:00:00"
+        }
+    },
+    {
+        "ID": "6624951289",
+        "Atleta": "Eric Giordano",
+        "Titolo": "Nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "4"
+        },
+        "Statistiche": {
+            "Distanza": "3.200m",
+            "Tempo in movimento": "1:01:00",
+            "Passo medio": "1:54/100 m"
+        }
+    },
+    {
+        "ID": "6624959289",
+        "Atleta": "Aziz M. Al Jahdhami",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "13"
+        },
+        "Statistiche": {
+            "Distanza": "700m",
+            "Tempo in movimento": "14:39",
+            "Passo medio": "2:05/100 m",
+            "Dislivello": "15:55",
+            "Tempo trascorso": "166"
+        }
+    },
+    {
+        "ID": "6624959489",
+        "Atleta": "Anita Richardson",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "2.400m",
+            "Tempo in movimento": "54:31",
+            "Passo medio": "2:16/100 m",
+            "Dislivello": "1:04:38",
+            "Tempo trascorso": "522"
+        }
+    },
+    {
+        "ID": "6624960789",
+        "Atleta": "Diego Salamanca M",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "1.625m",
+            "Tempo in movimento": "38:07",
+            "Passo medio": "2:20/100 m",
+            "Dislivello": "1:05:47",
+            "Tempo trascorso": "348"
+        }
+    },
+    {
+        "ID": "6624961089",
+        "Atleta": "Rob Benson",
+        "Titolo": "Discesa e locomotiva",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "3.246m",
+            "Tempo in movimento": "52:00",
+            "Passo medio": "1:36/100 m"
+        }
+    },
+    {
+        "ID": "6624971189",
+        "Atleta": "Raymond Grieger",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "44:49",
+            "Passo medio": "2:14/100 m",
+            "Dislivello": "50:58",
+            "Tempo trascorso": "500"
+        }
+    },
+    {
+        "ID": "6624978089",
+        "Atleta": "Mario López",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.350m",
+            "Tempo in movimento": "44:11",
+            "Passo medio": "3:16/100 m",
+            "Dislivello": "44:51",
+            "Tempo trascorso": "404"
+        }
+    },
+    {
+        "ID": "6624984489",
+        "Atleta": "Nic Potton",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.195m",
+            "Tempo in movimento": "9:51",
+            "Passo medio": "49sec/100 m",
+            "Tempo trascorso": "38:50"
+        },
+        "Location": "Rushcliffe, Regno Unito",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6624902089",
+        "Atleta": "José Aranha",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "2.124m",
+            "Tempo in movimento": "47:34",
+            "Passo medio": "2:14/100 m",
+            "Tempo trascorso": "53:23"
+        },
+        "Location": "São Sebastião, Brasile",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6624906689",
+        "Atleta": "Cassie Gologorsky",
+        "Titolo": "alzati e risplendi ☀️😤",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "1 febbraio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "1.463m",
+            "Tempo in movimento": "31:31",
+            "Passo medio": "2:09/100 m",
+            "Dislivello": "32:55",
+            "Tempo trascorso": "192"
+        }
+    },
+    {
+        "ID": "6624908589",
+        "Atleta": "Erik Griffith",
+        "Titolo": "Base elettrica Morning Row, Ilha Grande, Oceano Atlantico, Brasile",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "9"
+        },
+        "Statistiche": {
+            "Distanza": "12.856m",
+            "Tempo in movimento": "38:40",
+            "Passo medio": "11"
+        }
+    },
+    {
+        "ID": "6624909189",
+        "Atleta": "Stephen D'Arcy",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.525m",
+            "Tempo in movimento": "38:55",
+            "Passo medio": "2:33/100 m",
+            "Dislivello": "48:21",
+            "Tempo trascorso": "380"
+        }
+    },
+    {
+        "ID": "6624910089",
+        "Atleta": "Layla P 🍔",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "25"
+        },
+        "Statistiche": {
+            "Distanza": "2.625m",
+            "Tempo in movimento": "49:46",
+            "Passo medio": "1:53/100 m",
+            "Sforzo relativo": "47",
+            "Dislivello": "59:00",
+            "Tempo trascorso": "449"
+        }
+    },
+    {
+        "ID": "6624913289",
+        "Atleta": "Michael Gesland",
+        "Titolo": "Nuotare all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "22"
+        },
+        "Statistiche": {
+            "Distanza": "2.300m",
+            "Tempo in movimento": "1:00:00",
+            "Passo medio": "2:36/100 m"
+        }
+    },
+    {
+        "ID": "6624915289",
+        "Atleta": "Matthew McCormick",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "12"
+        },
+        "Statistiche": {
+            "Distanza": "2.225m",
+            "Tempo in movimento": "59:25",
+            "Passo medio": "2:40/100 m",
+            "Dislivello": "1:00:51",
+            "Tempo trascorso": "470"
+        }
+    },
+    {
+        "ID": "6624916089",
+        "Atleta": "Keith Barlow",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "1.000m",
+            "Tempo in movimento": "20:30",
+            "Passo medio": "2:03/100 m",
+            "Sforzo relativo": "37",
+            "Dislivello": "22:55",
+            "Tempo trascorso": "240"
+        }
+    },
+    {
+        "ID": "6624927589",
+        "Atleta": "Andrea Laganá",
+        "Titolo": "Pranzo Nuotata 3050m",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "6"
+        },
+        "Statistiche": {
+            "Distanza": "2.750m",
+            "Tempo in movimento": "59:29",
+            "Passo medio": "2:09/100 m",
+            "Sforzo relativo": "22",
+            "Dislivello": "59:29",
+            "Tempo trascorso": "581"
+        }
+    },
+    {
+        "ID": "6624935389",
+        "Atleta": "Maria Elena Huapaya",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "720m",
+            "Tempo in movimento": "16:44",
+            "Passo medio": "2:19/100 m",
+            "Dislivello": "16:44",
+            "Tempo trascorso": "145"
+        },
+        "Location": "Perù"
+    },
+    {
+        "ID": "6624936589",
+        "Atleta": "Danilo T",
+        "Titolo": "Nuotata pomeridiana",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.750m",
+            "Tempo in movimento": "45:44",
+            "Passo medio": "2:36/100 m",
+            "Sforzo relativo": "62",
+            "Dislivello": "45:43",
+            "Tempo trascorso": "570"
+        }
+    },
+    {
+        "ID": "6624939389",
+        "Atleta": "Yan Gu",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "914m",
+            "Tempo in movimento": "23:50",
+            "Passo medio": "2:36/100 m",
+            "Dislivello": "23:55",
+            "Tempo trascorso": "186"
+        }
+    },
+    {
+        "ID": "6624942289",
+        "Atleta": "Nathan Farrow",
+        "Titolo": "Pranzo a nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "1.000m",
+            "Tempo in movimento": "20:06",
+            "Passo medio": "2:00/100 m",
+            "Dislivello": "20:49",
+            "Tempo trascorso": "280"
+        }
+    },
+    {
+        "ID": "6624942789",
+        "Atleta": "Vanessa Diaz Chavero",
+        "Titolo": "Nuoto all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "16 gennaio 2022",
+            "Giorno Settimana": "Domenica"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "825m",
+            "Tempo in movimento": "20:39",
+            "Passo medio": "2:30/100 m",
+            "Dislivello": "34:07",
+            "Tempo trascorso": "144"
+        }
+    },
+    {
+        "ID": "6625269289",
+        "Atleta": "Anne Hedges",
+        "Titolo": "Nuoto mattutino 58 lunghezze",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "6"
+        },
+        "Statistiche": {
+            "Distanza": "0m",
+            "Tempo in movimento": "58:32",
+            "Passo medio": "0sec/100 m",
+            "Sforzo relativo": "159",
+            "Dislivello": "58:32",
+            "Tempo trascorso": "446"
+        }
+    },
+    {
+        "ID": "6625271489",
+        "Atleta": "Michael Wootton",
+        "Titolo": "Maestri con Tim",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.652m",
+            "Tempo in movimento": "1:13:30",
+            "Passo medio": "2:46/100 m",
+            "Sforzo relativo": "10",
+            "Dislivello": "1:13:30",
+            "Tempo trascorso": "552"
+        }
+    },
+    {
+        "ID": "6625275189",
+        "Atleta": "Christian Harris",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.800m",
+            "Tempo in movimento": "42:27",
+            "Passo medio": "2:21/100 m",
+            "Dislivello": "55:13",
+            "Tempo trascorso": "492"
+        }
+    },
+    {
+        "ID": "6625276889",
+        "Atleta": "Martin Haughton",
+        "Titolo": "Pranzo C1 siediti e scambia",
+        "Attività": "Canoa",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "8,66km",
+            "Tempo in movimento": "1:14:34",
+            "Passo medio": "13m"
+        },
+        "Location": "Leeds, Regno Unito",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625277689",
+        "Atleta": "Roy Maboreke",
+        "Titolo": "Attività del mattino",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "256m",
+            "Tempo in movimento": "1:04",
+            "Passo medio": "0m"
+        },
+        "Location": "Toronto, Canada",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625282689",
+        "Atleta": "Коста Прав",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.900m",
+            "Tempo in movimento": "1:00:34",
+            "Passo medio": "2:05/100 m",
+            "Dislivello": "1:03:46",
+            "Tempo trascorso": "696"
+        }
+    },
+    {
+        "ID": "6625288389",
+        "Atleta": "Mohamed Askar",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.700m",
+            "Tempo in movimento": "30:13",
+            "Passo medio": "1:46/100 m",
+            "Dislivello": "36:28",
+            "Tempo trascorso": "408"
+        }
+    },
+    {
+        "ID": "6625309489",
+        "Atleta": "Carlos Gomez / Team World Vision",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "19"
+        },
+        "Statistiche": {
+            "Tempo in movimento": "32:00"
+        }
+    },
+    {
+        "ID": "6625310889",
+        "Atleta": "Lisa Hen-Boisen",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "31"
+        },
+        "Statistiche": {
+            "Distanza": "1.100m",
+            "Tempo in movimento": "22:12",
+            "Passo medio": "2:01/100 m",
+            "Dislivello": "43:12",
+            "Tempo trascorso": "220"
+        }
+    },
+    {
+        "ID": "6625312889",
+        "Atleta": "Dino Rapelas",
+        "Titolo": "Attività del mattino",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "0m",
+            "Tempo in movimento": "30:02",
+            "Passo medio": "4"
+        }
+    },
+    {
+        "ID": "6625313489",
+        "Atleta": "Daniel Mueser",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "2 febbraio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.737m",
+            "Tempo in movimento": "29:21:29",
+            "Passo medio": "1:41:23/100 m",
+            "Dislivello": "29:21:29",
+            "Tempo trascorso": "532"
+        }
+    },
+    {
+        "ID": "6625318389",
+        "Atleta": "Mac McDonald",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "2.423m",
+            "Tempo in movimento": "37:06",
+            "Passo medio": "1:31/100 m"
+        }
+    },
+    {
+        "ID": "6625063989",
+        "Atleta": "Adrian Fenandez",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "5.000m",
+            "Tempo in movimento": "1:12:18",
+            "Passo medio": "1:26/100 m",
+            "Dislivello": "1:22:38",
+            "Tempo trascorso": "660"
+        }
+    },
+    {
+        "ID": "6625065889",
+        "Atleta": "Ashley Dyer",
+        "Titolo": "Concetto di canottaggio Inddor2",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "0m",
+            "Tempo in movimento": "30:05"
+        }
+    },
+    {
+        "ID": "6625070789",
+        "Atleta": "bruce green",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "2.500m",
+            "Tempo in movimento": "44:59",
+            "Passo medio": "1:47/100 m",
+            "Dislivello": "52:41",
+            "Tempo trascorso": "478"
+        }
+    },
+    {
+        "ID": "6625080189",
+        "Atleta": "Brian Campbell",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "7"
+        },
+        "Statistiche": {
+            "Distanza": "3.658m",
+            "Tempo in movimento": "1:01:47",
+            "Passo medio": "1:41/100 m",
+            "Dislivello": "1:14:48",
+            "Tempo trascorso": "890"
+        }
+    },
+    {
+        "ID": "6625085589",
+        "Atleta": "Jelte Brontsema",
+        "Titolo": "Pacing in swimgym",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "11"
+        },
+        "Statistiche": {
+            "Distanza": "2.325m",
+            "Tempo in movimento": "40:22",
+            "Passo medio": "1:44/100 m",
+            "Sforzo relativo": "20",
+            "Dislivello": "1:09:11",
+            "Tempo trascorso": "474"
+        }
+    },
+    {
+        "ID": "6625349589",
+        "Atleta": "Ron Kern",
+        "Titolo": "Attività del mattino",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "6.334m",
+            "Tempo in movimento": "37:52",
+            "Passo medio": "64m"
+        },
+        "Location": "Broward County, Stati Uniti d'America",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625352689",
+        "Atleta": "Guillaume Gravel",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "31 gennaio 2022",
+            "Giorno Settimana": "Lunedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "39:48",
+            "Passo medio": "1:59/100 m",
+            "Dislivello": "55:39",
+            "Tempo trascorso": "526"
+        }
+    },
+    {
+        "ID": "6625355389",
+        "Atleta": "Francesco Melzi Deril",
+        "Titolo": "Nuotata pomeridiana",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "12 luglio 2018",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.027m",
+            "Tempo in movimento": "28:11",
+            "Passo medio": "1:23/100 m",
+            "Sforzo relativo": "120",
+            "Dislivello": "28:11",
+            "Tempo trascorso": "479"
+        },
+        "Location": "Spagna",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625363589",
+        "Atleta": "Gina Hedz",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.250m",
+            "Tempo in movimento": "1:12:58",
+            "Passo medio": "3:14/100 m",
+            "Dislivello": "1:13:02",
+            "Tempo trascorso": "470"
+        }
+    },
+    {
+        "ID": "6625371189",
+        "Atleta": "Brad Loucks",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "3.018m",
+            "Tempo in movimento": "50:02",
+            "Passo medio": "1:39/100 m",
+            "Dislivello": "51:02",
+            "Tempo trascorso": "660"
+        }
+    },
+    {
+        "ID": "6625379689",
+        "Atleta": "Kristoffer Bjørklund",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "7"
+        },
+        "Statistiche": {
+            "Distanza": "1.050m",
+            "Tempo in movimento": "33:31",
+            "Passo medio": "3:11/100 m",
+            "Dislivello": "33:48",
+            "Tempo trascorso": "245"
+        }
+    },
+    {
+        "ID": "6625384089",
+        "Atleta": "Carissa Donahoo",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "2.812m",
+            "Tempo in movimento": "48:28",
+            "Passo medio": "1:43/100 m",
+            "Sforzo relativo": "58",
+            "Dislivello": "52:14",
+            "Tempo trascorso": "508"
+        }
+    },
+    {
+        "ID": "6625385389",
+        "Atleta": "hans Poulis",
+        "Titolo": "Sessione mattutina di nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "28 gennaio 2022",
+            "Giorno Settimana": "Venerdì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.625m",
+            "Tempo in movimento": "47:06",
+            "Passo medio": "1:47/100 m",
+            "Dislivello": "47:22",
+            "Tempo trascorso": "531"
+        }
+    },
+    {
+        "ID": "6625199389",
+        "Atleta": "KAROL RYDECKI",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.100m",
+            "Tempo in movimento": "29:00",
+            "Passo medio": "2:38/100 m",
+            "Dislivello": "32:52",
+            "Tempo trascorso": "264"
+        }
+    },
+    {
+        "ID": "6625201889",
+        "Atleta": "Brent Wright #stopthe22",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "48:22",
+            "Passo medio": "2:25/100 m",
+            "Sforzo relativo": "6",
+            "Dislivello": "49:08",
+            "Tempo trascorso": "497"
+        }
+    },
+    {
+        "ID": "6625205989",
+        "Atleta": "Gerardo Charvel",
+        "Titolo": "Fossato di 10000m",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "6"
+        },
+        "Statistiche": {
+            "Distanza": "10.000m",
+            "Tempo in movimento": "48:57"
+        }
+    },
+    {
+        "ID": "6625207289",
+        "Atleta": "Gonzalo Arce Avendaño",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "1.600m",
+            "Tempo in movimento": "22:58",
+            "Passo medio": "1:26/100 m",
+            "Dislivello": "44:07",
+            "Tempo trascorso": "207"
+        }
+    },
+    {
+        "ID": "6625219489",
+        "Atleta": "Connor Livingston",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "1.189m",
+            "Tempo in movimento": "27:49",
+            "Passo medio": "2:20/100 m",
+            "Sforzo relativo": "5",
+            "Dislivello": "29:45",
+            "Tempo trascorso": "233"
+        }
+    },
+    {
+        "ID": "6625223689",
+        "Atleta": "kenton wilkinson",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.450m",
+            "Tempo in movimento": "39:25",
+            "Passo medio": "1:36/100 m",
+            "Sforzo relativo": "32",
+            "Dislivello": "58:34",
+            "Tempo trascorso": "594"
+        }
+    },
+    {
+        "ID": "6625232089",
+        "Atleta": "christophe castagnetti",
+        "Titolo": "Nuotare nel pomeriggio",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "0m",
+            "Tempo in movimento": "15:00",
+            "Passo medio": "0sec/100 m",
+            "Tempo trascorso": "15:00"
+        }
+    },
+    {
+        "ID": "6625257489",
+        "Atleta": "Lore Sanchez",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.500m",
+            "Tempo in movimento": "1:12:08",
+            "Passo medio": "4:48/100 m",
+            "Dislivello": "54:43",
+            "Tempo trascorso": "255"
+        }
+    },
+    {
+        "ID": "6625388189",
+        "Atleta": "Pedro Guerra",
+        "Titolo": "Nuoto all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "10"
+        },
+        "Statistiche": {
+            "Distanza": "1.300m",
+            "Tempo in movimento": "30:42",
+            "Passo medio": "2:21/100 m"
+        }
+    },
+    {
+        "ID": "6625390989",
+        "Atleta": "Matthias Ott",
+        "Titolo": "Baden di cuore 😍",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "47"
+        },
+        "Statistiche": {
+            "Distanza": "3.100m",
+            "Tempo in movimento": "48:13",
+            "Passo medio": "1:33/100 m"
+        }
+    },
+    {
+        "ID": "6625393589",
+        "Atleta": "Neal Gassmann",
+        "Titolo": "Basta andare da LiveRowing",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "4.173m",
+            "Tempo in movimento": "17:10"
+        }
+    },
+    {
+        "ID": "6625397889",
+        "Atleta": "Sergi Pinedo",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "2.500m",
+            "Tempo in movimento": "45:08",
+            "Passo medio": "1:48/100 m"
+        }
+    },
+    {
+        "ID": "6625401789",
+        "Atleta": "Oliwia Jakubas",
+        "Titolo": "Nuoto",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Tempo in movimento": "40:00"
+        }
+    },
+    {
+        "ID": "6625420189",
+        "Atleta": "Pablo Saez",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "1 febbraio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.050m",
+            "Tempo in movimento": "36:36",
+            "Passo medio": "1:47/100 m"
+        }
+    },
+    {
+        "ID": "6625425889",
+        "Atleta": "Tyron Le Roux",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "1.225m",
+            "Tempo in movimento": "30:05",
+            "Passo medio": "2:27/100 m",
+            "Sforzo relativo": "19"
+        }
+    },
+    {
+        "ID": "6625431389",
+        "Atleta": "Arturo RGC",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "35:41",
+            "Passo medio": "1:47/100 m"
+        }
+    },
+    {
+        "ID": "6625436589",
+        "Atleta": "Wojciech Kosak",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "250m",
+            "Tempo in movimento": "11:05",
+            "Passo medio": "4:26/100 m"
+        }
+    },
+    {
+        "ID": "6625442589",
+        "Atleta": "Philip Prt",
+        "Titolo": "Nuoto di utilità",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Tempo in movimento": "1:00:00"
+        }
+    },
+    {
+        "ID": "6625442889",
+        "Atleta": "Aurélia Vnd",
+        "Titolo": "Nuoto - 2000m 🏊🏼",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "17"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "52:29",
+            "Passo medio": "2:37/100 m"
+        }
+    },
+    {
+        "ID": "6625445889",
+        "Atleta": "Gisela Garcia",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "100m",
+            "Tempo in movimento": "5:49",
+            "Passo medio": "5:49/100 m"
+        }
+    },
+    {
+        "ID": "6625450889",
+        "Atleta": "Martijn Rom Colthoff",
+        "Titolo": "JustGo-11571M",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "11.571m",
+            "Tempo in movimento": "1:03:19",
+            "Passo medio": "19m"
+        }
+    },
+    {
+        "ID": "6625455389",
+        "Atleta": "William Harrison",
+        "Titolo": "Ergatta - 750m in discesa",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "991m",
+            "Tempo in movimento": "5:31"
+        }
+    },
+    {
+        "ID": "6625493289",
+        "Atleta": "Catherine Giroux",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "2.700m",
+            "Tempo in movimento": "1:00:00",
+            "Passo medio": "2:13/100 m"
+        }
+    },
+    {
+        "ID": "6625494089",
+        "Atleta": "Jacqueline Sprangers-Schriek",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "43m",
+            "Tempo in movimento": "1:39",
+            "Passo medio": "3:52/100 m"
+        }
+    },
+    {
+        "ID": "6625496589",
+        "Atleta": "Johann Sander",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "2 febbraio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "1.550m",
+            "Tempo in movimento": "59:08",
+            "Passo medio": "3:48/100 m"
+        }
+    },
+    {
+        "ID": "6625498389",
+        "Atleta": "Александр Моисеенко",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "17"
+        },
+        "Statistiche": {
+            "Distanza": "2.000m",
+            "Tempo in movimento": "57:18",
+            "Passo medio": "2:51/100 m"
+        }
+    },
+    {
+        "ID": "6625503689",
+        "Atleta": "Diego Freitas",
+        "Titolo": "Nuoto all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "4"
+        },
+        "Statistiche": {
+            "Distanza": "1.500m",
+            "Tempo in movimento": "31:09",
+            "Passo medio": "2:04/100 m"
+        }
+    },
+    {
+        "ID": "6625513389",
+        "Atleta": "Fredrik J. H.",
+        "Titolo": "Viaactive sei DOOF / o non posso operarti watch.... 25000m",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "11"
+        },
+        "Statistiche": {
+            "Distanza": "2.175m",
+            "Tempo in movimento": "21:46",
+            "Passo medio": "1:00/100 m"
+        }
+    },
+    {
+        "ID": "6625519089",
+        "Atleta": "Jean-Paul Gaillard",
+        "Titolo": "6:06 fila",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "29 novembre 2018",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.407m",
+            "Tempo in movimento": "6:06",
+            "Passo medio": "2:10/500 m"
+        }
+    },
+    {
+        "ID": "6625519589",
+        "Atleta": "Alex Lacorte",
+        "Titolo": "Nuotare al mattino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.025m",
+            "Tempo in movimento": "44:39",
+            "Passo medio": "2:12/100 m"
+        }
+    },
+    {
+        "ID": "6625521989",
+        "Atleta": "Strava Athlete",
+        "Titolo": "Nuoto all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.430m",
+            "Tempo in movimento": "36:05",
+            "Passo medio": "1:29/100 m"
+        }
+    },
+    {
+        "ID": "6625646489",
+        "Atleta": "Laith Haboubi",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "735m",
+            "Tempo in movimento": "21:35",
+            "Passo medio": "2:56/100 m",
+            "Dislivello": "22:18",
+            "Tempo trascorso": "140"
+        }
+    },
+    {
+        "ID": "6625650689",
+        "Atleta": "Bo Shirey",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "3.200m",
+            "Tempo in movimento": "55:38",
+            "Passo medio": "1:44/100 m",
+            "Dislivello": "59:57",
+            "Tempo trascorso": "830"
+        }
+    },
+    {
+        "ID": "6625655289",
+        "Atleta": "Miguel Peña Garcia",
+        "Titolo": "Attività del mattino",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "9.014m",
+            "Tempo in movimento": "1:00:23",
+            "Passo medio": "33m"
+        }
+    },
+    {
+        "ID": "6625656689",
+        "Atleta": "Graeme S",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "1.000m",
+            "Tempo in movimento": "24:58",
+            "Passo medio": "2:29/100 m",
+            "Dislivello": "25:04",
+            "Tempo trascorso": "200"
+        }
+    },
+    {
+        "ID": "6625560589",
+        "Atleta": "Alexander Van den Broeck",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "1.350m",
+            "Tempo in movimento": "26:45",
+            "Passo medio": "1:58/100 m",
+            "Dislivello": "35:00",
+            "Tempo trascorso": "272"
+        }
+    },
+    {
+        "ID": "6625563389",
+        "Atleta": "Greta Rovetta",
+        "Titolo": "Nuotata pomeridiana",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "2.700m",
+            "Tempo in movimento": "50:00",
+            "Passo medio": "1:51/100 m"
+        }
+    },
+    {
+        "ID": "6625567189",
+        "Atleta": "Kevin Sisterson",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "10"
+        },
+        "Statistiche": {
+            "Distanza": "1.837m",
+            "Tempo in movimento": "48:57",
+            "Passo medio": "2:39/100 m",
+            "Sforzo relativo": "11",
+            "Dislivello": "48:57",
+            "Tempo trascorso": "380"
+        },
+        "Location": "Coronado, Stati Uniti d'America",
+        "Meteo": {
+            "Direzione del vento": "248.96°",
+            "Temperatura": "8.23°C",
+            "Visibilita": "5.8μ",
+            "Velocità del vento": "23.02km/h",
+            "Copertura nuvolosa": "96.7%",
+            "Precipitazioni": "0.0mm",
+            "Radiazioni solari": "37.7W/m^2",
+            "Escursione Termica": "7.06°C",
+            "Umidità": "92.63%",
+            "Copertura precipitazioni": "0.0%",
+            "Condizione": "Nuvoloso"
+        }
+    },
+    {
+        "ID": "6625583689",
+        "Atleta": "Paul M",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.188m",
+            "Tempo in movimento": "30:46",
+            "Passo medio": "2:35/100 m",
+            "Dislivello": "30:46",
+            "Tempo trascorso": "331"
+        }
+    },
+    {
+        "ID": "6625591289",
+        "Atleta": "Евгений Зиненко",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "8"
+        },
+        "Statistiche": {
+            "Distanza": "1.600m",
+            "Tempo in movimento": "38:50",
+            "Passo medio": "2:25/100 m",
+            "Dislivello": "38:57",
+            "Tempo trascorso": "320"
+        }
+    },
+    {
+        "ID": "6625591389",
+        "Atleta": "Laurent Termolle",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "100m",
+            "Tempo in movimento": "1:41",
+            "Passo medio": "1:41/100 m",
+            "Dislivello": "1:56",
+            "Tempo trascorso": "20"
+        }
+    },
+    {
+        "ID": "6625596289",
+        "Atleta": "Michael Lotz",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "10"
+        },
+        "Statistiche": {
+            "Distanza": "3.000m",
+            "Tempo in movimento": "48:38",
+            "Passo medio": "1:37/100 m",
+            "Dislivello": "56:03",
+            "Tempo trascorso": "720"
+        }
+    },
+    {
+        "ID": "6625598589",
+        "Atleta": "Rodrigo Portugues",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.425m",
+            "Tempo in movimento": "43:10",
+            "Passo medio": "3:01/100 m",
+            "Dislivello": "34:45",
+            "Tempo trascorso": "353"
+        }
+    },
+    {
+        "ID": "6625600289",
+        "Atleta": "Jared Snow",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "10"
+        },
+        "Statistiche": {
+            "Distanza": "4.115m",
+            "Tempo in movimento": "1:03:57",
+            "Passo medio": "1:33/100 m",
+            "Dislivello": "1:39:32",
+            "Tempo trascorso": "678"
+        }
+    },
+    {
+        "ID": "6625605089",
+        "Atleta": "Marijn van den Bergh",
+        "Titolo": "500 + 3 x 200 + 2 x 100",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "1.525m",
+            "Tempo in movimento": "28:50",
+            "Passo medio": "1:53/100 m",
+            "Dislivello": "36:29",
+            "Tempo trascorso": "473"
+        }
+    },
+    {
+        "ID": "6625608789",
+        "Atleta": "Timothy Busby",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "914m",
+            "Tempo in movimento": "21:48",
+            "Passo medio": "2:23/100 m",
+            "Dislivello": "23:26",
+            "Tempo trascorso": "200"
+        }
+    },
+    {
+        "ID": "6625621489",
+        "Atleta": "Feri Reyes",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "2 febbraio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.825m",
+            "Tempo in movimento": "59:17",
+            "Passo medio": "3:14/100 m",
+            "Dislivello": "59:16",
+            "Tempo trascorso": "320"
+        }
+    },
+    {
+        "ID": "6625623789",
+        "Atleta": "António Carvalho",
+        "Titolo": "Nuoto all'ora di pranzo",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "3"
+        },
+        "Statistiche": {
+            "Distanza": "750m",
+            "Tempo in movimento": "20:00",
+            "Passo medio": "2:40/100 m"
+        }
+    },
+    {
+        "ID": "6625631289",
+        "Atleta": "Luke Woollen",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.520m",
+            "Tempo in movimento": "34:48",
+            "Passo medio": "2:17/100 m",
+            "Dislivello": "35:05",
+            "Tempo trascorso": "380"
+        }
+    },
+    {
+        "ID": "6625632889",
+        "Atleta": "Rouen Smit",
+        "Titolo": "Hai bisogno di nuovi occhiali - raccomandazioni?",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "3.000m",
+            "Tempo in movimento": "50:18",
+            "Passo medio": "1:40/100 m",
+            "Sforzo relativo": "148",
+            "Dislivello": "50:17",
+            "Tempo trascorso": "536"
+        }
+    },
+    {
+        "ID": "6625636389",
+        "Atleta": "Sarah Guyot",
+        "Titolo": "Pomeriggio in spiaggia",
+        "Attività": "Canoa",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "4"
+        },
+        "Statistiche": {
+            "Distanza": "0km",
+            "Tempo in movimento": "1:17:36"
+        }
+    },
+    {
+        "ID": "6625523089",
+        "Atleta": "Alex Tasker",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "2"
+        },
+        "Statistiche": {
+            "Distanza": "2.375m",
+            "Tempo in movimento": "52:58",
+            "Passo medio": "2:13/100 m",
+            "Dislivello": "52:58",
+            "Tempo trascorso": "388"
+        }
+    },
+    {
+        "ID": "6625525889",
+        "Atleta": "Jean-Paul Gaillard",
+        "Titolo": "Fossato di 500m",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "13 gennaio 2021",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "500m",
+            "Tempo in movimento": "1:59",
+            "Passo medio": "1:59/500 m"
+        }
+    },
+    {
+        "ID": "6625529289",
+        "Atleta": "Keo Sovandara",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "22 novembre 2021",
+            "Giorno Settimana": "Lunedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "300m",
+            "Tempo in movimento": "5:33",
+            "Passo medio": "1:50/100 m",
+            "Dislivello": "5:36",
+            "Tempo trascorso": "60"
+        }
+    },
+    {
+        "ID": "6625534989",
+        "Atleta": "David Blackburn",
+        "Titolo": "10 min Seattle Cool Down con Nick Karwoski",
+        "Attività": "Canottaggio",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "1"
+        },
+        "Statistiche": {
+            "Distanza": "2.294m",
+            "Tempo in movimento": "10:00",
+            "Passo medio": "15"
+        }
+    },
+    {
+        "ID": "6625536889",
+        "Atleta": "Cosmin Cotea",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.200m",
+            "Tempo in movimento": "29:09",
+            "Passo medio": "1:19/100 m",
+            "Dislivello": "36:44",
+            "Tempo trascorso": "573"
+        }
+    },
+    {
+        "ID": "6625549989",
+        "Atleta": "Sonia Rodriguez López",
+        "Titolo": "Nuoto notturno",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "18 gennaio 2022",
+            "Giorno Settimana": "Martedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "725m",
+            "Tempo in movimento": "41:27",
+            "Passo medio": "5:43/100 m",
+            "Dislivello": "48:16",
+            "Tempo trascorso": "177"
+        }
+    },
+    {
+        "ID": "6625239589",
+        "Atleta": "Andy Taylor",
+        "Titolo": "Nuoto mattutino",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "5"
+        },
+        "Statistiche": {
+            "Distanza": "1.200m",
+            "Tempo in movimento": "20:28",
+            "Passo medio": "1:42/100 m",
+            "Sforzo relativo": "101",
+            "Dislivello": "48:00",
+            "Tempo trascorso": "246"
+        }
+    },
+    {
+        "ID": "6625241589",
+        "Atleta": "Stéphane Marin",
+        "Titolo": "Nuoto pomeridiano",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "7"
+        },
+        "Statistiche": {
+            "Distanza": "1.325m",
+            "Tempo in movimento": "28:41",
+            "Passo medio": "2:09/100 m",
+            "Dislivello": "32:25",
+            "Tempo trascorso": "277"
+        }
+    },
+    {
+        "ID": "6625242589",
+        "Atleta": "Serge Alexandroff",
+        "Titolo": "Nuotare nel pomeriggio",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "3 febbraio 2022",
+            "Giorno Settimana": "Giovedì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "1.250m",
+            "Tempo in movimento": "31:21",
+            "Passo medio": "2:30/100 m",
+            "Dislivello": "33:13",
+            "Tempo trascorso": "297"
+        }
+    },
+    {
+        "ID": "6625244689",
+        "Atleta": "Ronan Murphy",
+        "Titolo": "Nuoto serale",
+        "Attività": "Nuotata",
+        "Tempo": {
+            "Giorno": "26 gennaio 2022",
+            "Giorno Settimana": "Mercoledì"
+        },
+        "Social": {
+            "Kudos": "0"
+        },
+        "Statistiche": {
+            "Distanza": "2.250m",
+            "Tempo in movimento": "33:03",
+            "Passo medio": "1:28/100 m",
+            "Dislivello": "40:10",
+            "Tempo trascorso": "579"
+        }
+    }
+]
